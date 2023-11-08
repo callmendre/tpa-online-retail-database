@@ -1,1 +1,1 @@
-CREATE DATABASE tokosepatu
+CREATE DATABASE tokosepatu; //db
